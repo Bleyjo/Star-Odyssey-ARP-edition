@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "purple_stained_glass",
+	"textures": {
+		"0": "block/purple_stained_glass",
+		"particle": "block/purple_stained_glass"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 6],
+			"to": [16, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 16], "texture": "#0", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 4], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 4], "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}
