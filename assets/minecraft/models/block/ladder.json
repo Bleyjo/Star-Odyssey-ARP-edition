@@ -1,6 +1,7 @@
 {
 "__comment": "Designed by Galingueur with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "textures": {
+    "particle": "block/ladder",
     "texture": "block/ladder"
 },
 "elements": [ 

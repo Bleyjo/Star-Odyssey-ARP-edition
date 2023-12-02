@@ -264,5 +264,14 @@
 			"translation":  [ 0, -0.695, -2.782 ],
 			"scale":  [ 1.8, 1.8, 1.8 ]
 		}
-	}
+	},
+
+"overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/bonus/cane"
+    }
+  ]
 }

@@ -451,6 +451,30 @@
 		"custom_model_data": 14
       },
       "model": "custom/railpistol"
+    },
+    {
+      "predicate": {
+		"custom_model_data": 15
+      },
+      "model": "custom/signalis_ak"
+    },
+    {
+      "predicate": {
+		"custom_model_data": 16
+      },
+      "model": "custom/dragunov"
+    },
+    {
+      "predicate": {
+		"custom_model_data": 17
+      },
+      "model": "custom/signalis_makarov"
+    },
+    {
+      "predicate": {
+		"custom_model_data": 18
+      },
+      "model": "custom/bonus/malorianarms"
     }
   ]
 }

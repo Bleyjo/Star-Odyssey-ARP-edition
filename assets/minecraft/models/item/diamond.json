@@ -52,5 +52,32 @@
 			"translation":  [ 0, 0, 11.13 ],
 			"scale":  [ 2, 2, 2 ]
 		}
-	}
+	},
+
+"overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/medpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/bonus/genstim"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "custom/bonus/pills"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "custom/bonus/medicalscouter"
+    }
+  ]
 }
